@@ -1,4 +1,4 @@
 # NordGX
-This simple mod for OperaGX simply contains a light and dark theme that uses the Nord colour palette.
+A mod for OperaGX which adds a Nord style theme
 
-Because one didn't exist.
+Because one didn't exist
