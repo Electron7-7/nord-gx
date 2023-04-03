@@ -1,2 +1,2 @@
 # nord-gx-mod
- Nord-styled mod for OperaGX
+      Nord-styled mod for OperaGX
